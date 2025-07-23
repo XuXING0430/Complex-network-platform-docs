@@ -21,3 +21,4 @@
 - 微信公众号：三紫智造局
 - 知乎：三紫独立开发
 - 官网预告页：https://www.threepurple.cn/
+- [发送邮件联系我](mailto:purplethree6@gmail.com?subject=合作咨询&body=你好，我想了解你的平台服务。)
